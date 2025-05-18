@@ -1,4 +1,4 @@
-# 🛡️ Ethical Hacking Project: Network Penetration Testing
+# 🛡️ Ethical Hacking Project: Scanning and Enumerating a Local Network with Nmap
 
 **Author:** RANJAN KUMAR  
 **Semester:** 6th  
